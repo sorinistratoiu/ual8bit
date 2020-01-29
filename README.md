@@ -7,3 +7,5 @@ Logical OR
 Logical AND
 Logical XOR
 Logical NOT -- works only for the first operand
+
+![alt text](https://github.com/sorinistratoiu/ual8bit/blob/master/dd_alu_schematic.png)
